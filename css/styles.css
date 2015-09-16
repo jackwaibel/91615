@@ -1,1 +1,13 @@
+.column {
+  width: 200px;
+  float: left;
+  padding: 2px;
+  border: 2px solid green;
+  margin: 2px;
+}
 
+.name {
+  font-weight: bold;
+  color: orange;
+
+}
